@@ -1,0 +1,14 @@
+/Users/emrahelis/Boxing-UnBoxing/bin/Debug/net8.0/Boxing-UnBoxing
+/Users/emrahelis/Boxing-UnBoxing/bin/Debug/net8.0/Boxing-UnBoxing.deps.json
+/Users/emrahelis/Boxing-UnBoxing/bin/Debug/net8.0/Boxing-UnBoxing.runtimeconfig.json
+/Users/emrahelis/Boxing-UnBoxing/bin/Debug/net8.0/Boxing-UnBoxing.dll
+/Users/emrahelis/Boxing-UnBoxing/bin/Debug/net8.0/Boxing-UnBoxing.pdb
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/Boxing-UnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/Boxing-UnBoxing.AssemblyInfoInputs.cache
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/Boxing-UnBoxing.AssemblyInfo.cs
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/Boxing-UnBoxing.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/Boxing-UnBoxing.dll
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/refint/Boxing-UnBoxing.dll
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/Boxing-UnBoxing.pdb
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/Boxing-UnBoxing.genruntimeconfig.cache
+/Users/emrahelis/Boxing-UnBoxing/obj/Debug/net8.0/ref/Boxing-UnBoxing.dll
